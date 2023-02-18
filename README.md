@@ -1,6 +1,8 @@
 # Mediafire-clone
 This is a mediafire-clone project in django
 
+# First clone this repositry from gitbash or install the zip and extract it
+
 
 # 1 : go to the folder in Mediafire-clone
 # 2 : Type cmd in the path
